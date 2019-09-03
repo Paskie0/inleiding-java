@@ -6,6 +6,6 @@ package h01;
 public class HalloRocDev {
 
     public static void main(String[] args) {
-        System.out.println("Hallo Pascal en 9A!");
+        System.out.println("Doei iedereen");
     }
 }
