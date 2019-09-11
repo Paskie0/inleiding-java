@@ -17,7 +17,7 @@ public class Opdracht4 extends Applet {
         // White Lines
         g.setColor(Color.WHITE);
         g.drawLine(50,50,330,50);
-        g.drawLine(50,105,330,105);
+        g.drawLine( 50,105,330,105);
         g.drawLine(50,160,330,160);
         g.drawLine(50,215,330,215);
         g.drawLine(50,270,330,270);
