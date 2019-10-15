@@ -10,6 +10,7 @@ public class Test extends Applet {
     int breedte;
     int hoogte;
 
+
     public void init() {
         //initialisatie.
         opvulkleur = Color.MAGENTA;
